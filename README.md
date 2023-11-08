@@ -1,8 +1,6 @@
 # Automated-EDA-tools
 DIfferent Automated EDA tools 
 
-# Automated EDA Tools
-
 This repository presents a collection of automated Exploratory Data Analysis (EDA) tools that expedite the data exploration process. These tools are designed to help data scientists and analysts gain insights into their datasets with minimal manual effort.
 
 ## Tools
